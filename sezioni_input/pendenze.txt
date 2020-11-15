@@ -1,0 +1,6 @@
+adige	0.004
+kugart	0.006
+livenza	0.001
+tanaro	0.007
+vara	0.01
+po di goro	0.00005
